@@ -305,6 +305,9 @@ php, matlap</span>
 	
 	
     <footer class="pt-4 pb-4 text-muted text-center d-print-none">
+    <script type="text/javascript" src="https://free-hit-counters.net/count/89b5"></script><br>
+ <a href='https://www.doktorweigl.de'>Medizinische Begriffe verständlich erklärt</a> <script type='text/javascript' src='https://whomania.com/ctr?id=5c87f16e16478183e11f7926cc1791f88d73ad54'></script>
+ 
       <div class="container">
         <div class="my-3">
           <div class="h4">Khalid Almutairi</div>
